@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OL-Vlad-VC
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning in school
 - 💞️ I’m looking to collaborate on apple
 - 📫 How to reach me ...
 
